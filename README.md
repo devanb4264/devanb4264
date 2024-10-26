@@ -6,7 +6,7 @@
 + I am currently a senior
 + I have a concentration in cybersecurity
 + I live in Florence, AL
-+ I am currently learning PHP, Javascript, and ejs
++ I am currently learning PHP, C#, and ejs
 + You can contact me by my email [dbush1@una.edu](mailto:dbush1@una.edu)
 
 <p align="left">
